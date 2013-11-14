@@ -11,4 +11,10 @@
         <nickname>fong fong</nickname>
         <salary>200000</salary>
     </staff>
+    <staff id="2002">
+        <firstname>low</firstname>
+        <lastname>yin fong</lastname>
+        <nickname>fong fong</nickname>
+        <salary>200000</salary>
+    </staff>
 </company>
